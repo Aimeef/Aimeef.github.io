@@ -1,0 +1,204 @@
+#mleft{
+	width:30%;
+	height:650px;
+	border:3px solid rgb(184,0,0);
+	float:left;
+	margin-top:0px;}
+#mleft li{
+	display:inline-block;
+	text-indent:1em;
+	line-height:45px;
+	color:rgb(184,0,0);
+	font-size:16px;}
+#mright{
+	width:66.5%;
+	height:870px;
+    border:3px solid rgb(184,0,0);
+	margin-left:33%;
+	margin-top:20px;
+	}
+#mright li{
+	list-style:none;}
+#mrtop1{
+	width:100%;
+	height:200px;
+	border:0px solid black;}
+#mrtop11{
+	width:30%;
+	height:200px;
+	border:0px solid black;
+	float:left;
+	margin-left:14px;}
+#mrtop12{
+	width:30%;
+	height:200px;
+	border:0px solid black;
+	float:left;
+	margin-left:14px;}
+#mrtop13{
+	width:29.9%;
+	height:200px;
+	border:0px solid black;
+	float:left;
+	margin-left:14px;}
+#zhekou1{
+	width:100%;
+	height:50px;
+	border:0px solid black;}
+#zhekou11{
+	width:30%;
+	height:50px;
+	border:0px solid black;
+	background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/remai2.jpg);
+	background-position:left;
+	background-repeat:no-repeat;
+	float:left;
+	margin-left:14px;}
+#zhekou12{
+	width:30%;
+	height:50px;
+	border:0px solid black;
+	background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/remai2.jpg);
+	background-position:left;
+	background-repeat:no-repeat;
+	float:left;
+	margin-left:14px;}
+#zhekou13{
+	width:29.9%;
+	height:50px;
+	border:0px solid black;
+	background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/remai2.jpg);
+	background-position:left;
+	background-repeat:no-repeat;
+	float:left;
+	margin-left:14px;}
+#mrtop2{
+	width:100%;
+	height:200px;
+	border:0px solid black;}
+#mrtop21{
+	width:30%;
+	height:200px;
+	border:0px solid black;
+	float:left;
+	margin-left:14px;}
+#mrtop22{
+	width:30%;
+	height:200px;
+	border:0px solid black;
+	float:left;
+	margin-left:14px;}
+#mrtop23{
+	width:29.9%;
+	height:200px;
+	border:0px solid black;
+	float:left;
+	margin-left:14px;}
+#zhekou2{
+	width:100%;
+	height:50px;
+	border:0px solid black;}
+#zhekou21{
+	width:30%;
+	height:50px;
+	border:0px solid black;
+	background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/remai2.jpg);
+	background-position:left;
+	background-repeat:no-repeat;
+	float:left;
+	margin-left:14px;}
+#zhekou22{
+	width:30%;
+	height:50px;
+	border:0px solid black;
+	background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/remai2.jpg);
+	background-position:left;
+	background-repeat:no-repeat;
+	float:left;
+	margin-left:14px;}
+#zhekou23{
+	width:29.9%;
+	height:50px;
+	border:0px solid black;
+	background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/remai2.jpg);
+	background-position:left;
+	background-repeat:no-repeat;
+	float:left;
+	margin-left:14px;}
+#mrtop3{
+	width:100%;
+	height:200px;
+	border:0px solid black;}
+#mrtop31{
+	width:30%;
+	height:200px;
+	border:0px solid black;
+	float:left;
+	margin-left:14px;}
+#mrtop32{
+	width:30%;
+	height:200px;
+	border:0px solid black;
+	float:left;
+	margin-left:14px;}
+#mrtop33{
+	width:29.9%;
+	height:200px;
+	border:0px solid black;
+	float:left;
+	margin-left:14px;}
+#zhekou3{
+	width:100%;
+	height:50px;
+	border:0px solid black;}
+#zhekou31{
+	width:30%;
+	height:50px;
+	border:0px solid black;
+	background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/remai2.jpg);
+	background-position:left;
+	background-repeat:no-repeat;
+	float:left;
+	margin-left:14px;}
+#zhekou32{
+	width:30%;
+	height:50px;
+	border:0px solid black;
+	background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/remai2.jpg);
+	background-position:left;
+	background-repeat:no-repeat;
+	float:left;
+	margin-left:14px;}
+#zhekou33{
+	width:29.9%;
+	height:50px;
+	border:0px solid black;
+	background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/remai2.jpg);
+	background-position:left;
+	background-repeat:no-repeat;
+	float:left;
+	margin-left:14px;}
+
+hr{
+	width:100%;
+	color:red;
+	margin-left:0px;
+	margin-top:6px;
+	height:5px;
+	background-color:rgb(184,0,0);}/* CSS Document */
+#mrbottom{
+	width:100%;
+	height:40px;
+	border:0px solid black;
+	background-color:rgb(184,0,0);
+	color:white;}
+#mrbmiddle{
+	width:40%;
+	height:40px;
+	border:0px solid black;
+	background-color:rgb(184,0,0);
+	}
+#mrbmiddle li{
+	display:inline-block;
+	text-indent:0.5em;
+	}

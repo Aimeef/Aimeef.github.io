@@ -1,0 +1,268 @@
+/* CSS Document */
+div{
+	width:65%;
+	height:850px;
+	border:0px solid black;
+	margin:0 auto;
+	background-color:rgb(241,241,241);}
+#tleft{
+	width:27%;
+	height:344px;
+	border:3px solid rgb(184,0,0);
+	float:left;
+	margin-top:0px;
+	margin-left:20px;}
+#tleft li{
+	list-style:none;}
+#tright{
+	width:68.8%;
+	height:349px;
+	border:0px solid black;
+	/*background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/03.jpg);
+	background-position:center;
+	background-repeat:no-repeat;*/
+	margin-left:30%;
+	margin-top:0px;}
+hr{
+	width:89%;
+	color:red;
+	margin-left:30px;
+	margin-top:6px;}
+#top1{
+	width:100%;
+	height:370px;
+	border:0px solid black;
+	margin-top:0px;
+	}
+#ttop1{
+	width:100%;
+	height:349px;
+	border:0px solid rgb(184,0,0);
+	margin-left:0;
+	margin-top:15px;
+	}
+#middle1{
+	width:95%;
+	height:700px;
+	border:3px solid rgb(184,0,0);
+	margin-left:20px;
+	}
+#m1top{
+	width:100%;
+	height:60px;
+	border:0px solid black;
+	background-color:rgb(184,0,0);
+	background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/xiaotubiao2.png);
+	background-position:left;
+	background-repeat:no-repeat;}
+#m1top li{
+	display:inline-block;
+	margin-left:30px;
+	margin-top:18px;
+	font-size:18px;
+	color:white;}
+#m1bottom{
+	width:100%;
+	height:640px;
+	border:0px solid black;}
+#m1btop{
+	width:100%;
+	height:30px;
+	border:0px solid black;
+	background-color:rgb(222,222,222);}
+#m1btop li{
+	display:inline-block;
+	margin-left:50px;
+	margin-top:6px;}
+#m1btop li:hover{
+	background-color:white;
+	cursor:pointer;
+	}
+#m1bbottom{
+	width:100%;
+	height:600px;
+	border:0px solid black;}
+#m1bb1{
+	width:100%;
+	height:200px;
+	border:0px solid black;}
+#m1bb11{
+	width:23%;
+	height:200px;
+    margin-left:10px;	/*background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/20131202054147185546_73241.jpg);
+	background-position:center;
+	background-repeat:no-repeat;*/
+	float:left;}
+#m1bb12{
+	width:23%;
+	height:200px;
+	float:left;
+	margin-left:10px;
+	}
+#m1bb13{
+	width:23%;
+	height:200px;
+	float:left;
+	margin-left:10px;
+	}
+#m1bb14{
+	width:23%;
+	height:200px;
+	float:left;
+	margin-left:10px;
+	}
+
+#m1bb2{
+	width:100%;
+	height:100px;
+	border:0px solid black;}
+#m1bb21{
+	width:23%;
+	height:100px;
+    margin-left:10px;
+	float:left;
+	background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/remai1.jpg);
+	background-position:left;
+	background-repeat:no-repeat;}	
+#m1bb22{
+	width:23%;
+	height:100px;
+    margin-left:10px;
+	float:left;
+		background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/remai1.jpg);
+	background-position:left;
+	background-repeat:no-repeat;}	
+#m1bb23{
+	width:23%;
+	height:100px;
+    margin-left:10px;
+	float:left;
+		background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/remai1.jpg);
+	background-position:left;
+	background-repeat:no-repeat;}	
+#m1bb24{
+	width:23%;
+	height:100px;
+    margin-left:10px;
+	float:left;
+		background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/remai1.jpg);
+	background-position:left;
+	background-repeat:no-repeat;}	
+#m1bb3{
+	width:100%;
+	height:200px;
+	border:0px solid black;}
+#m1bb31{
+	width:23%;
+	height:200px;
+    margin-left:10px;
+	float:left;}	
+#m1bb32{
+	width:23%;
+	height:200px;
+	float:left;
+	margin-left:10px;
+	}
+#m1bb33{
+	width:23%;
+	height:200px;
+	float:left;
+	margin-left:10px;
+	}
+#m1bb34{
+	width:23%;
+	height:200px;
+	float:left;
+	margin-left:10px;
+	}
+#m1bb4{
+	width:100%;
+	height:100px;
+	border:0px solid black;}
+#m1bb41{
+	width:23%;
+	height:100px;
+    margin-left:10px;
+	float:left;
+	background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/remai1.jpg);
+	background-position:left;
+	background-repeat:no-repeat;}	
+#m1bb42{
+	width:23%;
+	height:100px;
+    margin-left:10px;
+	float:left;
+		background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/remai1.jpg);
+	background-position:left;
+	background-repeat:no-repeat;}	
+#m1bb43{
+	width:23%;
+	height:100px;
+    margin-left:10px;
+	float:left;
+		background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/remai1.jpg);
+	background-position:left;
+	background-repeat:no-repeat;}	
+#m1bb44{
+	width:23%;
+	height:100px;
+    margin-left:10px;
+	float:left;
+		background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/remai1.jpg);
+	background-position:left;
+	background-repeat:no-repeat;}	
+#middle2{
+	width:100%;
+	height:530px;
+	border:0px solid black;
+	}
+#m2middle{
+	width:100%;
+	height:500px;
+	border:0px solid black;
+	margin-top:20px;}
+#m2left{
+	width:45%;
+	height:500px;
+	border:5px solid rgb(184,0,0);
+	float:left;
+	margin-left:20px;}
+#m2ltop{
+	width:100%;
+	height:60px;
+	background-color:rgb(184,0,0);
+	background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/xiaotubiao2.png);
+	background-position:left;
+	background-repeat:no-repeat;}
+#m2ltop li{
+	display:inline-block;
+	margin-left:30px;
+	margin-top:18px;
+	font-size:18px;
+	color:white;}
+#m2lbottom{
+	width:100%;
+	height:440px;
+	border:0px solid black;}
+#m2right{
+	width:45%;
+	height:500px;
+	border:5px solid rgb(184,0,0);
+	margin-left:52%;}
+#m2rtop{
+	width:100%;
+	height:60px;
+	background-color:rgb(184,0,0);
+	background-image:url(../images/%E6%9D%B0%E6%99%AE%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/briup%E6%88%AA%E5%9B%BE/images/xiaotubiao2.png);
+	background-position:left;
+	background-repeat:no-repeat;}
+#m2rtop li{
+	display:inline-block;
+	margin-left:30px;
+	margin-top:18px;
+	font-size:18px;
+	color:white;}
+#m2rbottom{
+	width:100%;
+	height:440px;
+	border:0px solid black;}

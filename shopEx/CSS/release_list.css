@@ -1,0 +1,28 @@
+/* CSS Document */
+#mleft{
+	width:30%;
+	height:350px;
+	border:2px solid rgb(184,0,0) ;
+	float:left;
+	margin-top:0px;}
+#mleft li{
+	list-style:none;}
+hr{
+	width:89%;
+	color:red;
+	margin-left:30px;
+	margin-top:6px;}
+#mright{
+	width:66.4%;
+	height:580px;
+	border:3px solid rgb(184,0,0);
+	margin-left:33%;
+	margin-top:20px;
+	}
+#mright li{
+	list-style:none;}
+#mrmiddle{
+	width:98%;
+	height:500px;
+	border:0px solid black;
+	margin-top:10px;}

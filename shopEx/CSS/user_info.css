@@ -1,0 +1,25 @@
+/* CSS Document */
+#mleft{
+	width:30%;
+	height:320px;
+	border:3px solid rgb(184,0,0);
+	float:left;
+	margin-top:0px;}
+#mleft li{
+	list-style:none;}
+#mright{
+	width:66.4%;
+	height:450px;
+	border:3px solid rgb(184,0,0) ;
+	margin-left:33%;
+	margin-top:20px;
+	}
+#mright li{
+	list-style:none;}
+hr{
+	width:89%;
+	color:red;
+	margin-left:30px;
+	margin-top:6px;}
+#gl1,#gl2,#gl3,#gl4,#gl5,#gl6,#gl7{
+	list-style:none;}
