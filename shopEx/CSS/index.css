@@ -149,9 +149,6 @@ div{
 #tmi{
 	width:50%;
 	height:100px;
-	/*background-image:url(../images/images/taobao%E6%90%9C%E7%B4%A2.png);
-	background-position:bottom;
-	background-repeat:no-repeat;*/
 	position:absolute;
 	top:0px;
 	left:400px;}
@@ -261,7 +258,7 @@ div{
 	height:850px;
 	}*/
 #z1{
-	background-image:url(../images/images/%E5%9B%BE%E6%A0%87%E7%BB%84.png);
+	background-image:url(images/%E5%9B%BE%E6%A0%87%E7%BB%84.png);
 	background-repeat:no-repeat;
 	background-position:15px 7px;
 	width:100%;
@@ -276,7 +273,7 @@ div{
 	color:#F60;
 	cursor:pointer;}
 #z2{color:rgb(61,61,76);
-	background-image:url(../images/images/%E5%9B%BE%E6%A0%87%E7%BB%84.png);
+	background-image:url(images/%E5%9B%BE%E6%A0%87%E7%BB%84.png);
 	background-repeat:no-repeat;
 	background-position:15px -30px;
 	width:100%;
@@ -289,7 +286,7 @@ div{
 	color:#F60;
 	cursor:pointer;}
 #z3{color:rgb(61,61,76);
-	background-image:url(../images/images/%E5%9B%BE%E6%A0%87%E7%BB%84.png);
+	background-image:url(images/%E5%9B%BE%E6%A0%87%E7%BB%84.png);
 	background-repeat:no-repeat;
 	background-position:15px -64px;
 	width:100%;
@@ -302,7 +299,7 @@ div{
 	color:#F60;
 	cursor:pointer;}
 #z4{color:rgb(61,61,76);
-	background-image:url(../images/images/%E5%9B%BE%E6%A0%87%E7%BB%84.png);
+	background-image:url(images/images/%E5%9B%BE%E6%A0%87%E7%BB%84.png);
 	background-repeat:no-repeat;
 	background-position:15px -100px;
 	width:100%;
@@ -315,7 +312,7 @@ div{
 	color:#F60;
 	cursor:pointer;}
 #z5{color:rgb(61,61,76);
-	background-image:url(../images/images/%E5%9B%BE%E6%A0%87%E7%BB%84.png);
+	background-image:url(images/images/%E5%9B%BE%E6%A0%87%E7%BB%84.png);
 	background-repeat:no-repeat;
 	background-position:15px -140px;
 	width:100%;
