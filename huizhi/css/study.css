@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.warp{
+    width: 1280px;
+    overflow: hidden;
+    margin: auto;
+}
+.study_nav{
+    background-color: rgb(72,90,91);
+    width: 100%;
+    height: 80px;
+}
+.study_nav .logo{
+    padding: 20px 30px 0 80px ;
+}
+.study_nav ul{
+    list-style: none;
+    color: #d8d8d8;
+}
+.study_nav li{
+    display: inline-block;
+    width: 100px;
+    line-height: 80px;
+}
+.study_main{
+    overflow: hidden;
+    overflow: hidden;
+    padding: 20px 100px;
+
+}
+.vip{
+    display: block;
+    padding: 5px 5px 20px;
+}
+#myTab{
+    width: 1100px;
+}
+#myTabContent{
+    width: 1100px;
+}
+#home{
+    width: 100%;
+    overflow: hidden;
+    border:1px solid rgb(221,221,221);
+    border-radius: 10px;
+}
+.subject_type{
+    height: 55px;
+    padding: 10px 20px;
+    background-color: rgb(245,245,245);
+}
+.subject_pic{
+    padding: 9px;
+
+}
+.sub_p{
+
+    display: inline-block;
+    margin:5px 9px;
+    padding: 5px;
+    overflow: hidden;
+    border:1px solid rgb(221,221,221);
+}
+.sub_p img{
+    border-bottom:1px solid rgb(221,221,221);
+}
+.sub_p p{
+    width: 230px;
+    height: 70px;
+    font-size: 22px;
+    text-align: center;
+    font-family: 黑体;
+    margin: 30px 0 15px;
+}
+#home nav{
+    padding-left:400px;
+}
+.knowledge_point{
+    display: inline-block;
+    width: 250px;
+    border:1px solid rgb(221,221,221);
+    font-size: 24px;
+    line-height:80px ;
+    border-radius: 5px;
+}
+.knowledge_point:not(:nth-child(4n+1)){
+    margin: 10px 0 10px 27px;
+}
+.knowledge_point span{
+    display: inline-block;
+    border-right: 1px solid rgb(221,221,221);
+    padding: 0px 10px;
+    margin: 0 5px;
+}
+
+
